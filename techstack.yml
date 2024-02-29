@@ -2,14 +2,14 @@ repo_name: 2lambda123/RiksbankAPI
 report_id: 856c45064f963c1c9b4cd5d2a93c62c0
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T06:59:23+00:00'
+timestamp: '2024-02-29T19:13:48+00:00'
 requested_by: memfrag
 provider: github
 branch: master
 detected_tools_count: 3
 tools:
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
